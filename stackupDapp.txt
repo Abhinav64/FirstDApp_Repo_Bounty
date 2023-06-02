@@ -1,0 +1,7 @@
+I have added two features to the StackUp smart contract: quest review functionality and the ability for the admin to edit and delete quests. These features were chosen to enhance the functionality of the contract and make it mimic StackUp's functionalities more closely.
+
+The quest review functionality allows the admin to review quest submissions by players. The admin can reject, approve, or reward submissions based on the quality or completion of the quest. This feature provides a mechanism for the admin to manage and evaluate player submissions.
+
+The edit and delete quests features empower the admin to modify existing quests or remove them from the contract if necessary. This flexibility enables StackUp to adapt and evolve its quest offerings over time. The admin can update quest titles, rewards, and the number of available rewards, ensuring that the contract remains up-to-date with the desired quests.
+
+These additional features enhance the StackUp smart contract, enabling better quest management, evaluation of player submissions, and the ability to keep the quest offerings relevant and up-to-date.
